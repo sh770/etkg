@@ -5,7 +5,7 @@
   
   [![Commit activity](https://img.shields.io/github/commit-activity/t/shadowcopyrz/etkg/main?cacheSeconds=0)](https://github.com/shadowcopyrz/etkg/commits/main)
   ![Last commit](https://img.shields.io/github/last-commit/shadowcopyrz/etkg/main?cacheSeconds=0)
-  ![Last test](https://img.shields.io/badge/last_test-26.09.2026_23:03_UTC+3-blue)
+  ![Last test](https://img.shields.io/badge/last_test-27.09.2026_06:59_UTC+3-blue)
   [![Opened issues](https://img.shields.io/github/issues/shadowcopyrz/etkg?color=darkred)](https://github.com/shadowcopyrz/etkg/issues?cacheSeconds=0)
   [![Closed issues](https://img.shields.io/github/issues-closed/shadowcopyrz/etkg?color=darkgreen&cacheSeconds=0)](https://github.com/shadowcopyrz/etkg/issues?q=is%3Aissue+is%3Aclosed)
   ![License](https://img.shields.io/github/license/shadowcopyrz/etkg)
@@ -43,7 +43,7 @@ My [public channel with archives of my projects](https://t.me/rzc0d3r_official)
 
 ## Known Errors
 - **Almost all Email APIs have been blocked by ESET!!!**
-- **ESET** has removed the trial version for VPN, it is now **fully paid**. The ```--vpn-codes``` argument does not work now!
+- **ESET** has removed the trial version for VPN, it is now **fully paid**!
 - **ACT0**, **ACT5** errors may occur during activation in some cases
 - **ecp4125** activation error has been reported by some users
 - **ESET ProtectHub** has an aggressive policy for temporary email addresses!
@@ -130,7 +130,7 @@ Delete your current ESET HOME account
 ## 4. How to use (Part 2)
 1. [Account Generator](wiki/AccountGenerator.md)
 2. [Key Generator](wiki/KeyGenerator.md)
-3. [Reset ESET VPN](wiki/ResetEsetVPN.md)
+3. [Reset ESET VPN](wiki/ResetEsetVPN.md) [outdated]
 4. [Command Line Arguments](wiki/CommandLineArguments.md)
 5. [Updater](wiki/Updater.md)
 6. [Installer](wiki/Installer.md)
